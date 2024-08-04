@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 👨‍💻 All of my projects are available at [samiuddinkhan.dev.netlify.com]<a href="https://samiuddinkhan.dev.netlify.com" target="_blank">
+- 👨‍💻 All of my projects are available at <a href="https://samiuddinkhan.dev.netlify.com" target="_blank">samiuddinkhan.dev.netlify.com</a>
 
 - 📫 How to reach me **samiuddinkhan2000@gmail.com**
 
